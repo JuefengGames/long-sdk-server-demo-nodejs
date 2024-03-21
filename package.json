@@ -2,7 +2,7 @@
   "name": "long-sdk-server-demo-nodejs",
   "version": "1.0.0",
   "description": "Juefeng Games Sdk Server Demo",
-  "main": "index.js",
+  "main": "PayOrderCallBackDemo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
